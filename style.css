@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+body{
+  width: 100%;
+  overflow-y: hidden;
+  align-items: center;
+  
+}
+div{
+  background: yellowgreen;
+  padding: 60px 60px;
+}
+.logo{
+ border: 2px solid #eb8934;
+ margin-left: 41%;
+ margin-top: 40px;
+ margin-bottom: 35px
+}
